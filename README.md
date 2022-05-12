@@ -51,11 +51,11 @@ pyplot.legend()
 pyplot.show()
 ```
 
-## Output:
+## <br><br><br><br><br><br>Output:
 ![WhatsApp Image 2022-04-19 at 7 41 50 PM](https://user-images.githubusercontent.com/75236145/164032777-9a1bfac4-2642-489a-ba54-5072a6a78423.jpeg)
 
 
 
 
-## Result:
+## <br>Result:
 Thus the python program to implement the multi class classification was implemented successfully.
