@@ -26,7 +26,7 @@ The number of classifier models depends on the classification technique we are a
 4.summarize first few examples.\
 5.plot the dataset and color the by class label.\
 
-## <br><br><br><br>Program:
+## <br><br><br><br><br><br>Program:
 ```
 Program to implement the multi class classifier.
 Developed by: SURYA R
@@ -51,7 +51,7 @@ pyplot.legend()
 pyplot.show()
 ```
 
-## <br><br><br><br><br><br>Output:
+## <br><br><br><br><br><br><br><br>Output:
 ![WhatsApp Image 2022-04-19 at 7 41 50 PM](https://user-images.githubusercontent.com/75236145/164032777-9a1bfac4-2642-489a-ba54-5072a6a78423.jpeg)
 
 
